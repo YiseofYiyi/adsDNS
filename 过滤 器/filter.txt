@@ -1,0 +1,16 @@
+# baidu
+||hm.baidu.com^
+||pos.baidu.com^
+||ads.csdn.net^
+||cpro.baidu.com^
+||dup.baidustatic.com^
+
+# CSDN
+||ads.csdn.net^
+
+# Google
+||googleadservices.com^
+||googleads.g.doubleclick.net^
+
+# 
+||mpb1.iteye.com^
